@@ -21,7 +21,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://github.com/zip0d/JavaScript_Kt5.1.git", 
+  "homepage": "https://github.com/zip0d/zip0d-JavaScript_Kt5-0.git", 
   "eslintConfig": {
     "extends": [
       "react-app",
